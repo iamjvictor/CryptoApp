@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, SafeAreaView, Platform, StatusBar } from 'react
 import CurrentPrice from './src/components/currentPrice';
 import HistoryGraphic from './src/components/historyGraphic';
 import QuotationList from './src/components/quotationList';
+import QuotationItems from './src/components/quotationList/quotationItems';
 
 export default function App() {
   return (
@@ -11,9 +12,10 @@ export default function App() {
       <CurrentPrice/>
       <HistoryGraphic/>
       <QuotationList/>
+      <QuotationItems/>
       <StatusBar 
-      backgroundColor='grey'
-      barStyle="dark-content"
+      backgroundColor="black"
+      barStyle="light-content"
       />
     </SafeAreaView>
   );
