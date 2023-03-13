@@ -3,7 +3,8 @@ import { StyleSheet } from "react-native"
 const styles = StyleSheet.create({
   CurrentPrice:{
     color:"yellow",
-    fontSize:22,   
+    fontSize:22,
+    fontWeight:"900",   
 
   },
 
@@ -16,7 +17,7 @@ const styles = StyleSheet.create({
 
   TextPrice:{
     color:"grey",
-    fontSize:16,
+    fontSize:12,
     
 
   }

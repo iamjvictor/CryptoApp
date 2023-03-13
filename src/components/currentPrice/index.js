@@ -6,8 +6,8 @@ import styles from "./style"
 export default function CurrentPrice(){
     return(
         <View style={styles.HeaderPrice}>
-            <Text style={styles.CurrentPrice}>$ 24.567</Text>
-            <Text style={styles.TextPrice}>Last Updated</Text>
+            <Text style={styles.CurrentPrice}>Crypto APP</Text>
+            <Text style={styles.TextPrice}>Last Updated cypto prices</Text>
         </View>
 
     )

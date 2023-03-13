@@ -3,13 +3,12 @@ import { StyleSheet } from "react-native"
 const styles = StyleSheet.create({
  mainCard:{
     backgroundColor:"grey",
-    marginLeft:"3%",
-    width:"95%",
-    marginBottom:15,
+    width:"90%",
+    marginBottom:10,
     height:"auto",
     flexDirection:"row",
     alignItems:"center",
-    padding:10,
+    padding:5,
     borderRadius:10,
  },
  image:{

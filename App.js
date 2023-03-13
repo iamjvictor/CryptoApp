@@ -10,9 +10,8 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       
       <CurrentPrice/>
-      <HistoryGraphic/>
-      <QuotationList/>
       <QuotationItems/>
+      
       <StatusBar 
       backgroundColor="black"
       barStyle="light-content"
