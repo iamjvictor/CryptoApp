@@ -1,4 +1,4 @@
-# Site Velozes e furiosos
+# Crypto APP
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iamjvictor/CryptoApp?style=for-the-badge)
