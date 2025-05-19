@@ -26,7 +26,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Você instalou a versão mais recente de `<React Native / npm / Expo>`
+* Você instalou a versão mais recente de `<Node.js/React Native / npm / Expo>`
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
 
